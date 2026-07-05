@@ -38,7 +38,7 @@ Gosto de aprender novas tecnologias, testar soluções diferentes, e não me pre
 <b>Sistema web para gerenciamento de salões de beleza.</b>
 </p>
 
-Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
+Projeto em desenvolvimento como **Trabalho de Conclusão de Curso (TCC)**.
 
 <kbd>Stacks</kbd> -> React | Flask | Supabase
 
