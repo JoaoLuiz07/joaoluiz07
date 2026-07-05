@@ -15,7 +15,7 @@
 
 Sou estudante de <b>Desenvolvimento de Sistemas</b> na <b>ETEC</b> e tenho interesse em desenvolvimento Full Stack.
 
-Meu foco está na criação de aplicações web utilizando <b>React</b>, <b>Flask</b> e <b>Supabase</b>, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+Meu foco atual está na criação de aplicações web utilizando <b>React</b>, <b>Flask</b> e <b>Supabase</b>, sempre buscando escrever código limpo, escalável e de fácil manutenção. 
 
 Gosto de aprender novas tecnologias, testar soluções diferentes, e não me preocupo de ficar horas codando!
 
@@ -40,11 +40,7 @@ Gosto de aprender novas tecnologias, testar soluções diferentes, e não me pre
 
 Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
 
-<kbd>Stack</kbd>
-
-- React
-- Flask
-- Supabase
+<kbd>Stacks</kbd> -> React | Flask | Supabase
 
 <kbd>Funcionalidades</kbd>
 
