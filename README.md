@@ -12,10 +12,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...
 <table>
 <tr>
-<td width="4">
-<svg width="4" height="130">
-<rect width="4" height="120" fill="#6000F7"/>
-</svg>
+<td>
+<img src="assets/barra_roxa.png" width="4" height="155">
 </td>
 <td>
 
@@ -40,21 +38,12 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em 
 ## Projeto em destaque
 
 ### <img height="80" src="https://github.com/Secretaria-Gestao/TCC-ETEC/blob/main/web/public/logo_pequena.png?raw=true" align='middle'> Secretária Gestão
-<table>
-<tr>
-<td width="4">
-<svg width="4" height="40">
-<rect width="4" height="30" fill="#6000F7"/>
-</svg>
-</td>
-<td>
 
-<b>Sistema de Gestão para Salão de Beleza </b>
-
-</td>
-</tr>
-</table>
-
+<p>
+<img src="assets/barra_roxa.png" width="4" height="30" align="middle">
+&nbsp;
+<b>Sistema web para gerenciamento de salões de beleza.</b>
+</p>
 
 Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
 
@@ -75,3 +64,7 @@ Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
 <kbd>Repositório:</kbd> https://github.com/Secretaria-Gestao/TCC-ETEC
 
 ---
+
+### Meus contatos
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojoao.luiz07@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6000F7?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-luiz-41979935a)
