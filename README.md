@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...
 
-<img src="assets/barra_roxa.png" width="4" height="130" align="left" hspace="16">
+<img src="assets/barra_roxa.png" width="4" height="130" align="left" hspace="10">
 
 Sou estudante de <b>Desenvolvimento de Sistemas</b> na <b>ETEC</b> e tenho interesse em desenvolvimento Full Stack.
 
@@ -34,7 +34,7 @@ Gosto de aprender novas tecnologias, testar soluções diferentes, e não me pre
 ### <img height="80" src="https://github.com/Secretaria-Gestao/TCC-ETEC/blob/main/web/public/logo_pequena.png?raw=true" align='middle'> Secretária Gestão
 
 <p>
-<img src="assets/barra_roxa.png" width="4" height="25" align="left" hspace="16">
+<img src="assets/barra_roxa.png" width="4" height="25" align="left" hspace="10">
 <b>Sistema web para gerenciamento de salões de beleza.</b>
 </p>
 
@@ -56,4 +56,4 @@ Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
 
 ### Meus contatos
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojoao.luiz07@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6000F7?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-luiz-41979935a)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojoao.luiz07@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6000F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-luiz-41979935a/)
