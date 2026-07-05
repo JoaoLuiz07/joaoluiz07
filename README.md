@@ -10,23 +10,17 @@
 </h1>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...
-<table>
-<tr>
-<td>
-<img src="assets/barra_roxa.png" width="4" height="155">
-</td>
-<td>
 
-Atualmente estudante de **Desenvolvimento de Sistemas** na **ETEC** e tenho interesse em desenvolvimento **Full Stack**.
+<img src="assets/barra_roxa.png" width="4" height="130" align="left" hspace="16">
 
-Atualmente meu foco está na criação de aplicações web utilizando **React**, **Flask** e **Supabase**, sempre visando um código limpo, escalavel, e de fácil manutenção.
+Sou estudante de <b>Desenvolvimento de Sistemas</b> na <b>ETEC</b> e tenho interesse em desenvolvimento Full Stack.
 
-Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos reais.
+Meu foco está na criação de aplicações web utilizando <b>React</b>, <b>Flask</b> e <b>Supabase</b>, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
-</td>
-</tr>
-</table>
+Gosto de aprender novas tecnologias, testar soluções diferentes, e não me preocupo de ficar horas codando!
 
+
+<br clear="left">
 
 
 ## Tecnologias principais
@@ -40,8 +34,7 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em 
 ### <img height="80" src="https://github.com/Secretaria-Gestao/TCC-ETEC/blob/main/web/public/logo_pequena.png?raw=true" align='middle'> Secretária Gestão
 
 <p>
-<img src="assets/barra_roxa.png" width="4" height="30" align="middle">
-&nbsp;
+<img src="assets/barra_roxa.png" width="4" height="25" align="left" hspace="16">
 <b>Sistema web para gerenciamento de salões de beleza.</b>
 </p>
 
