@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Rosarivo&size=30&duration=1&pause=1&color=6000F7&vCenter=true&repeat=false&width=130&height=45&lines=Jo%C3%A3o+Luiz"
+    alt="João Luiz"
+  />&nbsp;
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Rosarivo&size=28&duration=3000&pause=2000&color=6000F7&vCenter=true&repeat=true&width=360&height=45&lines=%7C+Hello+World%2C+I'm+cooking."
+    alt="Typing SVG"
+  />
+</h1>
 
-<!--
-**JoaoLuiz07/joaoluiz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...
+<table>
+<tr>
+<td width="4">
+<svg width="4" height="130">
+<rect width="4" height="120" fill="#6000F7"/>
+</svg>
+</td>
+<td>
 
-Here are some ideas to get you started:
+Atualmente estudante de **Desenvolvimento de Sistemas** na **ETEC** e tenho interesse em desenvolvimento **Full Stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente meu foco está na criação de aplicações web utilizando **React**, **Flask** e **Supabase**, sempre visando um código limpo, escalavel, e de fácil manutenção.
+
+Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos reais.
+
+</td>
+</tr>
+</table>
+
+
+
+## Tecnologias principais
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,flask,supabase,mysql,git,github,linux,figma,vercel" />
+</p>
+
+## Projeto em destaque
+
+### <img height="80" src="https://github.com/Secretaria-Gestao/TCC-ETEC/blob/main/web/public/logo_pequena.png?raw=true" align='middle'> Secretária Gestão
+<table>
+<tr>
+<td width="4">
+<svg width="4" height="40">
+<rect width="4" height="30" fill="#6000F7"/>
+</svg>
+</td>
+<td>
+
+<b>Sistema de Gestão para Salão de Beleza </b>
+
+</td>
+</tr>
+</table>
+
+
+Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
+
+<kbd>Stack</kbd>
+
+- React
+- Flask
+- Supabase
+
+<kbd>Funcionalidades</kbd>
+
+- Autenticação
+- Agendamento
+- Gestão de profissionais
+- Gestão de salões
+- API REST
+
+<kbd>Repositório:</kbd> https://github.com/Secretaria-Gestao/TCC-ETEC
+
+---
